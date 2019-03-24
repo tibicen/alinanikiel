@@ -1,6 +1,6 @@
 ---
-title: Alina nikiel
-description: funnnnnn
+title: Alina Nikiel
+description: description
 ---
 
 ## Welcome to GitHub Pages
